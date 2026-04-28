@@ -1,6 +1,13 @@
 
 # Ozon-scraper, Сбор данных товаров
 
+
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/dee053d1-1cbf-48bd-85e6-edda1b50a5e8" />
+
+
+
+
 Программа собирает данные по ссылкам и обрабатывает страницы параллельно, что ускоряет получение результатов.
 
 
